@@ -46,6 +46,7 @@ This work is intended to build a deeper understanding of:
 ## Case Files
 
 - [Elizabeth Diane Collins Case](./elizabeth-collins-case/)
+- [Chacey Tyler Poynter Case](./chacey-poynter-case/)
 
 ---
 
