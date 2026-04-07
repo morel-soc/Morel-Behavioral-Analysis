@@ -4,7 +4,7 @@ Behavioral analysis of real-world cases, focused on patterns, escalation, and de
 
 This repository contains structured case analyses focused on behavioral patterns, decision-making, and incident flow.
 
-The work here examines how real-world situations unfold — from initial interaction through escalation, investigation, and resolution.
+The work here examines how real-world situations unfold; from initial interaction through escalation, investigation, and resolution.
 
 ---
 
